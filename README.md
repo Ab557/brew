@@ -90,3 +90,4 @@ Flaky test detection and tracking is provided by [BuildPulse](https://buildpulse
 Homebrew is generously supported by [GitHub](https://github.com/github), [Custom Ink](https://github.com/customink), [Randy Reddig](https://github.com/ydnar), [Naveen Nathan](https://github.com/nnathan), [Codecademy](https://github.com/Codecademy), [MacPaw Inc.](https://github.com/MacPaw), [Workbrew](https://github.com/Workbrew) and many other users and organisations via [GitHub Sponsors](https://github.com/sponsors/Homebrew).
 
 [![GitHub](https://github.com/github.png?size=64)](https://github.com/github)
+
